@@ -1,0 +1,475 @@
+<?xml version="1.0"?>
+<ItemCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Items>
+    <Item name="abcdefghi">
+      <red>1</red>
+      <green>0</green>
+      <blue>0</blue>
+    </Item>
+    <Item name="jklmnopqr">
+      <red>0</red>
+      <green>1</green>
+      <blue>0</blue>
+    </Item>
+    <Item name="stuvwxyz_">
+      <red>0</red>
+      <green>0</green>
+      <blue>1</blue>
+    </Item>
+    <Item name="anausirar">
+      <red>0.266666681</red>
+      <green>0.4</green>
+      <blue>0.333333343</blue>
+    </Item>
+    <Item name="umotrisiu">
+      <red>0.408333331</red>
+      <green>0.425</green>
+      <blue>0.2916667</blue>
+    </Item>
+    <Item name="steneiusa">
+      <red>0.333333343</red>
+      <green>0.166666672</green>
+      <blue>0.5</blue>
+    </Item>
+    <Item name="ippeesimu">
+      <red>0.4</red>
+      <green>0.6</green>
+      <blue>0</blue>
+    </Item>
+    <Item name="eniosokea">
+      <red>0.08</red>
+      <green>0.719999969</green>
+      <blue>0.4</blue>
+    </Item>
+    <Item name="mppostate">
+      <red>0.616</red>
+      <green>0.544</green>
+      <blue>0.08</blue>
+    </Item>
+    <Item name="theskonir">
+      <red>0.1232</red>
+      <green>0.7088</green>
+      <blue>0.415999979</blue>
+    </Item>
+    <Item name="gabonides">
+      <red>0.3904</red>
+      <green>0.3386</green>
+      <blue>0.427</blue>
+    </Item>
+    <Item name="ifnenesir">
+      <red>0.6272</red>
+      <green>0.476942867</green>
+      <blue>0.060999997</blue>
+    </Item>
+    <Item name="ntoiaiuse">
+      <red>0.328400016</red>
+      <green>0.434617877</green>
+      <blue>0.382624984</blue>
+    </Item>
+    <Item name="anoniance">
+      <red>0.164200008</red>
+      <green>0.717308939</green>
+      <blue>0.6913125</blue>
+    </Item>
+    <Item name="zoradesia">
+      <red>0.582100034</red>
+      <green>0.8586545</green>
+      <blue>0.345656246</blue>
+    </Item>
+    <Item name="mtusaesiu">
+      <red>0.291050017</red>
+      <green>1.42932725</green>
+      <blue>0.172828123</blue>
+    </Item>
+    <Item name="jonaeaite">
+      <red>0.145525008</red>
+      <green>1.71466362</green>
+      <blue>0.08641406</blue>
+    </Item>
+    <Item name="yceleedes">
+      <red>0.0727625042</red>
+      <green>1.85733175</green>
+      <blue>0.04320703</blue>
+    </Item>
+    <Item name="igumusiai">
+      <red>0.0242541675</red>
+      <green>1.61911058</green>
+      <blue>0.0144023439</blue>
+    </Item>
+    <Item name="frphalfhe">
+      <red>0.006063542</red>
+      <green>1.40477765</green>
+      <blue>0.003600586</blue>
+    </Item>
+    <Item name="cagaeusia">
+      <red>0.333333343</red>
+      <green>0.6666667</green>
+      <blue>0</blue>
+    </Item>
+    <Item name="leblosiar">
+      <red>0.111111112</red>
+      <green>1.22222221</green>
+      <blue>0</blue>
+    </Item>
+    <Item name="thesturos">
+      <red>0.055555556</red>
+      <green>1.61111116</green>
+      <blue>0</blue>
+    </Item>
+    <Item name="phashesiu">
+      <red>0.0185185187</red>
+      <green>1.537037</green>
+      <blue>0</blue>
+    </Item>
+    <Item name="gderidane">
+      <red>0.00617283955</red>
+      <green>1.51234567</green>
+      <blue>0</blue>
+    </Item>
+    <Item name="urkameade">
+      <red>0.002057613</red>
+      <green>1.50411522</green>
+      <blue>0</blue>
+    </Item>
+    <Item name="elhepisit">
+      <red>0.5003429</red>
+      <green>0.250685871</green>
+      <blue>0.5</blue>
+    </Item>
+    <Item name="fcchiades">
+      <red>0.750057161</red>
+      <green>0.375114322</green>
+      <blue>0.0833333358</blue>
+    </Item>
+    <Item name="feicliosr">
+      <red>1.18751431</red>
+      <green>0.09377858</green>
+      <blue>0.020833334</blue>
+    </Item>
+    <Item name="odhendimu">
+      <red>1.39583814</red>
+      <green>0.0312595256</green>
+      <blue>0.0069444445</blue>
+    </Item>
+    <Item name="igadichos">
+      <red>0.465279371</red>
+      <green>1.01041985</green>
+      <blue>0.00231481483</blue>
+    </Item>
+    <Item name="phidaesia">
+      <red>0.116319843</red>
+      <green>1.252605</green>
+      <blue>0.0005787037</blue>
+    </Item>
+    <Item name="loiaeitho">
+      <red>0.03877328</red>
+      <green>1.417535</green>
+      <blue>0.000192901236</blue>
+    </Item>
+    <Item name="yelaiasar">
+      <red>0.0129244262</red>
+      <green>1.47251165</green>
+      <blue>6.430041E-05</blue>
+    </Item>
+    <Item name="grialeiar">
+      <red>0.00430814223</red>
+      <green>0.490837216</green>
+      <blue>1.00002146</blue>
+    </Item>
+    <Item name="ztebeides">
+      <red>0.00143604737</red>
+      <green>1.16361237</green>
+      <blue>0.3333405</blue>
+    </Item>
+    <Item name="vachiaimr">
+      <red>1.000359</red>
+      <green>0.2909031</green>
+      <blue>0.083335124</blue>
+    </Item>
+    <Item name="gliolaeus">
+      <red>1.333453</red>
+      <green>0.0969677</green>
+      <blue>0.027778374</blue>
+    </Item>
+    <Item name="vanunedar">
+      <red>0.148161456</red>
+      <green>1.01077414</green>
+      <blue>0.003086486</blue>
+    </Item>
+    <Item name="eiturapir">
+      <red>0.02963229</red>
+      <green>0.20215483</green>
+      <blue>1.00061727</blue>
+    </Item>
+    <Item name="brrindsar">
+      <red>0.00987743</red>
+      <green>1.067385</green>
+      <blue>0.3335391</blue>
+    </Item>
+    <Item name="leiclasia">
+      <red>0.00329247676</red>
+      <green>0.355795</green>
+      <blue>1.11117971</blue>
+    </Item>
+    <Item name="fallicuss">
+      <red>1.00109756</red>
+      <green>0.118598334</green>
+      <blue>0.370393246</blue>
+    </Item>
+    <Item name="ssphailll">
+      <red>0.600219548</red>
+      <green>0.6237197</green>
+      <blue>0.07407865</blue>
+    </Item>
+    <Item name="urperusar">
+      <red>0.120043911</red>
+      <green>0.724743962</green>
+      <blue>0.414815724</blue>
+    </Item>
+    <Item name="igeissoss">
+      <red>0.530010939</red>
+      <green>0.681185961</green>
+      <blue>0.103703931</blue>
+    </Item>
+    <Item name="ntiemeade">
+      <red>0.08833516</red>
+      <green>0.613531</green>
+      <blue>0.517284</blue>
+    </Item>
+    <Item name="matosusia">
+      <red>0</red>
+      <green>0.6666667</green>
+      <blue>0.333333343</blue>
+    </Item>
+    <Item name="kortonesa">
+      <red>0.4</red>
+      <green>0.733333349</green>
+      <blue>0.06666667</blue>
+    </Item>
+    <Item name="penhthesa">
+      <red>0.2</red>
+      <green>1.36666667</green>
+      <blue>0.0333333351</blue>
+    </Item>
+    <Item name="fthonisia">
+      <red>1.06666672</red>
+      <green>0.455555558</green>
+      <blue>0.0111111114</blue>
+    </Item>
+    <Item name="xmerimnes">
+      <red>1.5333333</red>
+      <green>0.227777779</green>
+      <blue>0.00555555569</blue>
+    </Item>
+    <Item name="uraneusir">
+      <red>1.51111114</red>
+      <green>0.0759259239</green>
+      <blue>0.00185185194</blue>
+    </Item>
+    <Item name="hemosolrk">
+      <red>1.50370371</red>
+      <green>0.02530864</green>
+      <blue>0.000617284</blue>
+    </Item>
+    <Item name="ypesiosia">
+      <red>1.50123453</red>
+      <green>0.008436213</green>
+      <blue>0.000205761331</blue>
+    </Item>
+    <Item name="icchriosa">
+      <red>1.50041151</red>
+      <green>0.002812071</green>
+      <blue>6.858711E-05</blue>
+    </Item>
+    <Item name="stealiade">
+      <red>1.50013721</red>
+      <green>0.000937357</green>
+      <blue>2.286237E-05</blue>
+    </Item>
+    <Item name="oronusisa">
+      <red>0.5000457</red>
+      <green>1.00031245</green>
+      <blue>7.62079026E-06</blue>
+    </Item>
+    <Item name="peiotiade">
+      <red>0.0714351</red>
+      <green>0.85718745</green>
+      <blue>0.285715371</blue>
+    </Item>
+    <Item name="sgideusiu">
+      <red>0.614287</red>
+      <green>0.5714375</green>
+      <blue>0.0571430735</blue>
+    </Item>
+    <Item name="ceaeustth">
+      <red>0.9035717</red>
+      <green>0.39285937</green>
+      <blue>0.0142857684</blue>
+    </Item>
+    <Item name="uletolesa">
+      <red>0.780714333</red>
+      <green>0.4785719</green>
+      <blue>0.00285715377</blue>
+    </Item>
+    <Item name="throsisar">
+      <red>0.195178583</red>
+      <green>0.869643</green>
+      <blue>0.2507143</blue>
+    </Item>
+    <Item name="atadsonia">
+      <red>0.456454068</red>
+      <green>0.695663333</green>
+      <blue>0.03581633</blue>
+    </Item>
+    <Item name="fgdetiani">
+      <red>0.29129082</red>
+      <green>0.9391327</green>
+      <blue>0.007163266</blue>
+    </Item>
+    <Item name="rccesusir">
+      <red>0.0728227049</red>
+      <green>1.23478317</green>
+      <blue>0.00179081655</blue>
+    </Item>
+    <Item name="luraeosar">
+      <red>0.0242742356</red>
+      <green>1.41159439</green>
+      <blue>0.000596938829</blue>
+    </Item>
+    <Item name="khestesar">
+      <red>0.006068559</red>
+      <green>1.3528986</green>
+      <blue>0.000149234707</blue>
+    </Item>
+    <Item name="scetadrar">
+      <red>0.002022853</red>
+      <green>1.45096624</green>
+      <blue>4.97449037E-05</blue>
+    </Item>
+    <Item name="phelesith">
+      <red>0.000337142148</red>
+      <green>1.24182773</green>
+      <blue>8.290817E-06</blue>
+    </Item>
+    <Item name="ibesariar">
+      <red>0.000112380716</red>
+      <green>1.41394269</green>
+      <blue>2.76360583E-06</blue>
+    </Item>
+    <Item name="vachausia">
+      <red>3.746024E-05</red>
+      <green>1.47131431</green>
+      <blue>9.21201945E-07</blue>
+    </Item>
+    <Item name="oiaitonte">
+      <red>9.36506E-06</red>
+      <green>1.36782861</green>
+      <blue>2.30300486E-07</blue>
+    </Item>
+    <Item name="phoioskei">
+      <red>1.33786568E-06</red>
+      <green>1.195404</green>
+      <blue>3.290007E-08</blue>
+    </Item>
+    <Item name="ymemallre">
+      <red>2.67573142E-07</red>
+      <green>1.23908079</green>
+      <blue>6.580014E-09</blue>
+    </Item>
+    <Item name="frperieus">
+      <red>8.919105E-08</red>
+      <green>1.41302693</green>
+      <blue>2.193338E-09</blue>
+    </Item>
+    <Item name="aialsosiu">
+      <red>2.973035E-08</red>
+      <green>1.4710089</green>
+      <blue>7.3111267E-10</blue>
+    </Item>
+    <Item name="herosanor">
+      <red>7.43258743E-09</red>
+      <green>1.36775219</green>
+      <blue>1.82778168E-10</blue>
+    </Item>
+    <Item name="ttonsosar">
+      <red>1.0617982E-09</red>
+      <green>0.6239646</green>
+      <blue>0.5714286</blue>
+    </Item>
+    <Item name="jonhidiar">
+      <red>3.53932744E-10</red>
+      <green>0.2079882</green>
+      <blue>1.19047618</blue>
+    </Item>
+    <Item name="seadaldes">
+      <red>1.17977586E-10</red>
+      <green>0.0693294</green>
+      <blue>1.39682543</blue>
+    </Item>
+    <Item name="vaetedads">
+      <red>2.94943965E-11</red>
+      <green>0.01733235</green>
+      <blue>1.34920633</blue>
+    </Item>
+    <Item name="ggenogath">
+      <red>9.8314655E-12</red>
+      <green>0.00577745028</green>
+      <blue>1.44973552</blue>
+    </Item>
+    <Item name="kegendita">
+      <red>1</red>
+      <green>0.00144436257</green>
+      <blue>0.362433881</blue>
+    </Item>
+    <Item name="jofragios">
+      <red>0.333333343</red>
+      <green>1.00048149</green>
+      <blue>0.120811291</blue>
+    </Item>
+    <Item name="lfltaesir">
+      <red>0.111111112</red>
+      <green>0.333493829</green>
+      <blue>1.04027045</blue>
+    </Item>
+    <Item name="rphetusia">
+      <red>1.02777779</red>
+      <green>0.08337346</green>
+      <blue>0.2600676</blue>
+    </Item>
+    <Item name="leiusthus">
+      <red>1.20555556</red>
+      <green>0.0166746918</green>
+      <blue>0.0520135239</blue>
+    </Item>
+    <Item name="etebesade">
+      <red>0.241111115</red>
+      <green>1.00333488</green>
+      <blue>0.0104027046</blue>
+    </Item>
+    <Item name="vadidsith">
+      <red>1.06027782</red>
+      <green>0.25083372</green>
+      <blue>0.00260067615</blue>
+    </Item>
+    <Item name="rpponeoni">
+      <red>0.676713</red>
+      <green>0.5418056</green>
+      <blue>0.000433446025</blue>
+    </Item>
+    <Item name="mphhimnth">
+      <red>0.169178247</red>
+      <green>0.885451436</green>
+      <blue>0.250108361</blue>
+    </Item>
+    <Item name="mpheusone">
+      <red>0.03383565</red>
+      <green>0.97709024</green>
+      <blue>0.250021666</blue>
+    </Item>
+    <Item name="chathosia">
+      <red>0.00676713</red>
+      <green>1.19541812</green>
+      <blue>0.0500043333</blue>
+    </Item>
+  </Items>
+</ItemCollection>

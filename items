@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<ItemCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Items>
+    <Item name="abcdefghi">
+      <red>1</red>
+      <green>0</green>
+      <blue>0</blue>
+    </Item>
+    <Item name="jklmnopqr">
+      <red>0</red>
+      <green>1</green>
+      <blue>0</blue>
+    </Item>
+    <Item name="stuvwxyz_">
+      <red>0</red>
+      <green>0</green>
+      <blue>1</blue>
+    </Item>
+  </Items>
+</ItemCollection>
